@@ -20,7 +20,7 @@ AngularJS
 Any open source project related to front-end development
 - 📫 How to reach me   
 Email: arjun.jaitly2018@gmail.com    
-LinkedIn: [LinkedIn]( linkedin.com/in/arjun-jaitly )
+LinkedIn: linkedin.com/in/arjun-jaitly
 - 😄 Pronouns    
 She/Her
 
