@@ -1,3 +1,6 @@
+![Avatar2](https://github.com/Arjun-Jaitly/TheKulfiShop/assets/132069381/7323cfea-d6af-40b0-9b60-e50c9a74dba0)
+
+
 - 👋 Hi, I’m @Arjun-Jaitly    
 I am a passionate and creative BCA graduate with a deep interest in front-end development. I specialize in designing and developing responsive websites and applications using HTML, CSS, JavaScript, Java, C, and C++.    
 Additionally, I have a keen interest in graphic designing using software such as Illustrator, Photoshop, and more.
